@@ -1,0 +1,3 @@
+javac AlgoExo.java && java AlgoExo
+node ../node/test.js
+
